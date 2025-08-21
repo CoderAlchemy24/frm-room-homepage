@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-room-homepage.git](https://github.com/CoderAlchemy24/frm-room-homepage.git)
+- Live Site URL: [https://silver-moonbeam-fe788f.netlify.app/](https://silver-moonbeam-fe788f.netlify.app/)
 
 
 ### Built with
